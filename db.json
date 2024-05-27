@@ -1,0 +1,20 @@
+{
+  "todos": [
+    {
+      "id": "4060",
+      "firstName": "sevara",
+      "lastName": "Usmonova",
+      "email": "salom@gmail.com",
+      "birthdate": "2024-05-02",
+      "password": "11111"
+    },
+    {
+      "id": "2fc9",
+      "firstName": "sarvar",
+      "lastName": "Usmonov",
+      "email": "salom@gmail.com",
+      "birthdate": "2024-05-02",
+      "password": "11111"
+    }
+  ]
+}
